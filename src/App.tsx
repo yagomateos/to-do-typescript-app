@@ -14,7 +14,7 @@ function App() {
           <TodoList />
         </div>
       </main>
-      <footer>Made by Bao Nguyen</footer>
+      <footer></footer>
     </>
   );
 }

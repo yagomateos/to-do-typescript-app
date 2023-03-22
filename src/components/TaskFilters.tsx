@@ -20,7 +20,7 @@ const TaskFilters = () => {
           className={filterOrder === filter.all ? classes.active : ""}
           href="#"
         >
-          View All
+          Ver Todas
         </a>
       </li>
       <li onClick={changeFilterOrder.bind(null, filter.active)}>
@@ -28,7 +28,7 @@ const TaskFilters = () => {
           className={filterOrder === filter.active ? classes.active : ""}
           href="#"
         >
-          Active
+          Activas
         </a>
       </li>
       <li onClick={changeFilterOrder.bind(null, filter.completed)}>
@@ -36,7 +36,7 @@ const TaskFilters = () => {
           className={filterOrder === filter.completed ? classes.active : ""}
           href="#"
         >
-          Completed
+          Completadas
         </a>
       </li>
     </ul>

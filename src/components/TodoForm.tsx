@@ -36,7 +36,7 @@ const TodoForm = () => {
           id="todoText"
           type="text"
           maxLength={64}
-          placeholder="What needs to be done?"
+          placeholder="Que añado en tu lista?"
           ref={inputRef}
         ></input>
       </form>
