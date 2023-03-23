@@ -1,6 +1,6 @@
 # Todo App
 
-<img src="https://github.com/quocbao19982009/Todo-App/blob/master/Todo%20App.png" alt="Todo App" />
+<img src="https://github.com/yagomateos/to-do-typescript-app/blob/master/Todo%20App.png?raw=true" alt="Todo App" />
 
 ## Información General
 
