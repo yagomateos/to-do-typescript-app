@@ -6,7 +6,7 @@
 
 Esta es una aplicación Todo que usa Firebase API, React with TypeScript. La aplicación puede agregar, eliminar y editar tareas pendientes. Todo se puede ordenar por Completo o Activo.
 
-Live: https://to-do-typescript-app.vercel.app/
+Live: https://to-do-typescript-app.vercel.app
 
 ## Tecnologías
 
